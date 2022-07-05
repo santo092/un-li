@@ -48,10 +48,10 @@
         phase-name="pretrans"><source>Company</source><seg-source><mrk
             mtype="seg"
             mid="1">Company</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
+            MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">dsd</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
